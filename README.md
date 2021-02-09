@@ -6,7 +6,7 @@ For more information, please check out:
 https://research.fb.com/prophet-forecasting-at-scale/
 https://facebook.github.io/prophet/docs/quick_start.html#python-api
 
-In this project,
+In this project, you'll
 * Understand the theory and intuition behind Facebook times series forecasting tool
 * Import Key libraries, dataset and visualize dataset
 * Build a time series forecasting model using Facebook Prophet to predict future product prices
